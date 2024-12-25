@@ -29,7 +29,7 @@ return (
                 <p className='pt-[10vh] py-3 text-[10px] w-[80%] flex items-start justify-start md:w-[60%] md:text-[14px] xl:w-[40%]'>The Talent Büro (TTB) is a boutique agency specialising in Model and Talent management in Australia. TTB offers bespoke all-female model management where we work to achieve our models long-term goals and success. Through our extensive client network TTB provides strategic and personalised career planning to build the profiles of our models and talent in the fashion, beauty, lifestyle, consumer and many more sectors. TTB actively procures opportunities for our models in the photographic, creative and TV industries as well as social media partnerships, PR and brand endorsements. The Talent Büro, founded in 2017 is propelled by a team of highly skilled, experienced Talent Managers, and is pioneered by strategic vision and commitment to diversity, inclusivity and adaptability within the industry.</p>
         </section>
         
-        <footer className=' pt-[10vh] px-4 min-h-[40vh] w-full flex flex-col items-center justify-evenly md:flex-row '>
+        <footer className=' pt-[10vh] py-10 px-4 min-h-[40vh] w-full flex flex-col items-center justify-evenly md:flex-row '>
 
                 <div className='w-full px-3 flex flex-col'>
                     <h6 className='text-[12px]'>Subscribe to TTB</h6>
